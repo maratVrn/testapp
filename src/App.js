@@ -7,9 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Marat test react app 11
+          Marat test react app 11 ысыв
+            я что то изменил
         </p>
-          sdsd
 
 
       </header>
